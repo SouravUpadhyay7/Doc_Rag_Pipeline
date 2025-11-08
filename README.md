@@ -308,13 +308,8 @@ async-rag-system/
 │   ├── index.py                  # PDF indexing script
 │   └── server.py                 # FastAPI application
 │
-├── docker-compose.yml            # Redis + Qdrant orchestration
-├── .env                          # Environment variables
-├── .gitignore                   
-├── LICENSE
-├── requirements.txt              # Python dependencies
-└── README.md
-```
+├── docker-compose.yml            # Redis + Qdrant orchestration                          #
+                
 
 ---
 
